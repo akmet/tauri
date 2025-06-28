@@ -63,4 +63,6 @@ jobs:
           args: ${{ matrix.args }}
           bundleIdentifier: "de.evjs.postkartentool"
           appName: "PostkartenTool2"
-          appVersion: ${{ github.ref_name }}
+          appVersion: "0.1.1"
+          distPath: "dist"
+          iconPath: "public/postcard.png"
