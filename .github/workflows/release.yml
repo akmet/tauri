@@ -64,5 +64,5 @@ jobs:
           bundleIdentifier: "de.evjs.postkartentool"
           appName: "PostkartenTool2"
           appVersion: "0.1.1"
-          distPath: "dist"
+          distPath: "../dist"
           iconPath: "public/postcard.png"
